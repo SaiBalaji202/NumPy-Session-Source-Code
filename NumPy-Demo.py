@@ -648,7 +648,7 @@ from matplotlib.image import imread
 # In[159]:
 
 
-kitten = imread('images/a.jpg')
+kitten = imread('images/kitten.jpg')
 
 
 # In[161]:
